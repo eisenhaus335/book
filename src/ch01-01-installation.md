@@ -1,27 +1,29 @@
-## Installation
+## Instalasi
 
-The first step is to install Rust. We’ll download Rust through `rustup`, a
-command line tool for managing Rust versions and associated tools. You’ll need
-an internet connection for the download.
+Langkah pertama adalah menginstall Rust. kita akan download Rust melalui `rustup`,
+suatu alat lini perintah untuk mengatur versi Rust dan peralatan yang terasosiasikan.
+Kamu akan membutuhkan koneksi internet untuk download.
 
-> Note: If you prefer not to use `rustup` for some reason, please see [the Rust
-> installation page](https://www.rust-lang.org/tools/install) for other options.
+> Catatan: Jika kamu memilih tidak menggunakan `rustup` untuk suatu alasan, silahkan
+> melihat [halaman instalasi Rust](https://www.rust-lang.org/tools/install) untuk opsi lainnya
 
-The following steps install the latest stable version of the Rust compiler.
-Rust’s stability guarantees ensure that all the examples in the book that
-compile will continue to compile with newer Rust versions. The output might
-differ slightly between versions, because Rust often improves error messages
-and warnings. In other words, any newer, stable version of Rust you install
-using these steps should work as expected with the content of this book.
+Langkah berikut ini adalah untuk menginstalasi versi stabil paling baru
+dari kompiler Rust. Kestabilan Rust membuat jaminan bahwa seluruh contoh kode
+yang dapat dikompilasi dibuku akan tetap dapat terkompilasi dengan versi Rust
+yang lebih baru. Hasil output mungkin akan berbeda karena perbedaan versi, karena
+Rust biasanya melakukan perbaikan pesan error dan peringatan/warning. Dengan kata lain,
+versi yang baru, ataupun versi stabil dari Rust yang kamu install menggunakan
+langkah ini harusnya berhasil bekerja seperti yang sesuai ekspetasi konten buku ini.
 
-> ### Command Line Notation
->
-> In this chapter and throughout the book, we’ll show some commands used in the
-> terminal. Lines that you should enter in a terminal all start with `$`. You
-> don’t need to type in the `$` character; it indicates the start of each
-> command. Lines that don’t start with `$` typically show the output of the
-> previous command. Additionally, PowerShell-specific examples will use `>`
-> rather than `$`.
+> ### Notasi Lini Perintah
+> 
+> Dalam bab ini dan sepanjang buku, kami akan memperlihatkan perintah yang digunakan
+> dalam terminal. Lini yang kamu harus masukan akan dimulai dengan `$`. Kamu tidak
+> perlu menuliskan karakter `$`; ini hanya mengindikasikan awalan dari setiap perintah.
+> Lini yang tidak dimulai dengan `$` biasanya menampilkan output dari perintah sebelumnya.
+> Untuk menambahkan, contoh spesifik seperti PowerShell akan menggunakan `>` daripada `$`.
+
+
 
 ### Installing `rustup` on Linux or macOS
 
