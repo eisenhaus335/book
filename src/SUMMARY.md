@@ -1,8 +1,8 @@
-# The Rust Programming Language
+# Bahasa Pemrograman Rust
 
 [The Rust Programming Language](title-page.md)
 [Foreword](foreword.md)
-[Introduction](ch00-00-introduction.md)
+[Pengenalan](ch00-00-pengenalan.md)
 
 ## Getting started
 

@@ -1,8 +1,8 @@
 # Getting Started
 
-Let’s start your Rust journey! There’s a lot to learn, but every journey starts
-somewhere. In this chapter, we’ll discuss:
+Mari kita mulai perjalanan Rust! Banyak hal yang dapat dipelajari, namun setiap
+perjalanan harus mulai dari suatu awalan. Di bab ini, kita membahas:
 
-* Installing Rust on Linux, macOS, and Windows
-* Writing a program that prints `Hello, world!`
-* Using `cargo`, Rust’s package manager and build system
+* Menginstall Rust di Linux, macOS, dan Windows
+* Menulis program yang akan menulis `Hello, world!`
+* Menggunakan `cargo`, manajer paket dan sistem pembangun Rust.
